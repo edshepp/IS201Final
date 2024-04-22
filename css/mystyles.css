@@ -1,0 +1,55 @@
+/*Elise Sheppard
+IS 201 Section 007*/
+
+.myPagebody{
+    background-color: rgb(203, 224, 249);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 40px;
+    padding: 5px;
+}
+
+.UtahBody1{
+    border: 2px double black;
+    text-align: center;
+    position: static;
+}
+
+.UtahBody2{
+    border: 2px double black;
+    position: static;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+.UtahHeader{
+   position: sticky;
+   text-decoration: underline;
+   font-size: large;
+   color: rgb(65, 71, 153);
+   
+}
+
+.utahSub{
+    color: rgb(82, 99, 172);
+}
+
+.tableauSub{
+    color: rgb(82, 99, 172);
+    border: 2px double black;
+}
+
+.post-title{
+    text-align: center;
+}
+
+
+
+
+
